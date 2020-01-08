@@ -2,3 +2,5 @@ Flask
 autopep8
 pylint
 pytest
+coverage
+pytest-cov
